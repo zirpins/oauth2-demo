@@ -23,3 +23,7 @@ Handling of the OAuth flow can be done in the webapp, or in the Zuul gateway.
 ###Resource Server = Category/Item Microservices
 Downstream composite or core microservices are resource servers,
 that can use a OAuth2 token to verify a user is authenticated.
+
+
+[Oauth2-spring](https://spring.io/guides/tutorials/spring-boot-oauth2/#_social_login_custom_error)
+[spring sample app](https://github.com/spring-projects/spring-security-oauth/tree/master/samples/oauth2)
